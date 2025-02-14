@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main () 
+{
+
+  printf("Mackenzie - FCI\n");
+  printf("Algoritmos e Programação 2\n");
+
+  return 0;
+}
